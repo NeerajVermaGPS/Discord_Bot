@@ -24,7 +24,7 @@ Before running the bot, ensure you have the following:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/Discord_Bot.git
+    git clone https://github.com/NeerajVermaGPS/Discord_Bot.git
     cd Discord_Bot
     ```
 
